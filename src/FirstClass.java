@@ -10,6 +10,8 @@ public class FirstClass {
 
         System.out.println("treti vypis");
 
+        System.out.println("Komit so spravou");
+
     }
 
 
