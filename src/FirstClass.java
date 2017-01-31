@@ -8,6 +8,8 @@ public class FirstClass {
 
         System.out.println("druhy vypis");
 
+        System.out.println("treti vypis");
+
     }
 
 
