@@ -12,6 +12,9 @@ public class FirstClass {
 
         System.out.println("Komit so spravou     ");
 
+        System.out.println("Idem do druheho Bramch");
+
+        System.out.println("este jeden test");
 
     }
 
